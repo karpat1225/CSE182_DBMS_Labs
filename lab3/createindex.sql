@@ -1,0 +1,1 @@
+CREATE INDEX PurchaseIndex ON Purchase(creditCardType, totalPrice);
